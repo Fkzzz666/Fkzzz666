@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fkzzz666/gato/main/banner.jpeg" width="100%" alt="Banner do perfil" />
+  <img src="./banner.jpeg" alt="Banner do perfil" width="100%" />
 </div>
 
 <h1 align="center">Fkzzz 💀</h1>
@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Fkzzz666.Fkzzz666" alt="Contador de visitas" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />

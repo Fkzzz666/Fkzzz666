@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpeg" alt="Banner do perfil" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fkzzz666/banner.jpeg/main/ddca15c0c33c87fb0670f96e1887538a.jpg" width="100%" alt="Banner do perfil" />
 </div>
 
 <h1 align="center">Fkzzz 💀</h1>
